@@ -15,11 +15,11 @@ Stock Portfolio Robo advisor is the automatic stock portfolio construction and r
 •	Using Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. Accuracy achieved:75%.
 •All code files are not uploaded as project is in progress.
 
-# Creating and Rebalancing the Portfolio
+**Creating and Rebalancing the Portfolio with value and growth investment strategy**
 [Code with explanation](https://drive.google.com/open?id=12_o7swd6RlXgsBFGW5NbGLktIo91vJr0)
 
-# Machine Learning stock selection with all features of financial statements 
+**Machine Learning stock selection with all features of financial statements**
 [Code with explanation](https://drive.google.com/open?id=1Nk1mlDUBEULa85zNcoP9gh9btxLv4nmj)
 
-# Machine Learning stock selection with selected features 
+**Machine Learning stock selection with selected features**
 [Code with explanation](https://drive.google.com/open?id=1X3naHVxt6sRkQZ-y8WUqhPk7Qpy-zR-T)
