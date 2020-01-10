@@ -1,0 +1,2 @@
+# Stock-Portfolio-Robo-Advisor
+Stock Portfolio Robo advisor is the automatic stock portfolio construction and rebalancing software created. Using listed companies' financial statements, we constructed a portfolio based on value investment and growth investment strategy. Language and tools used: Python, MySQL, Machine Learning Concepts used: Financial Analytics, Optimization Dataset used: Balance sheet, Cashflow statement, income statement, and historical returns of 4000 listed stocks.
