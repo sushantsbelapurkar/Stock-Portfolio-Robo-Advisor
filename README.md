@@ -17,6 +17,7 @@ Steps:
 -	Using optimization, Modern Portfolio Theory, and Sharpe ratio allocate weight to the portfolio stocks.
 -	Rebalancing the portfolio once a three year.
 -	Portfolio risk customization and watchlist options available to consumers.
--	Using Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. Accuracy achieved:75%.
+-	Using Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. 
+- Accuracy achieved:75%.
 
 - Added few sample code files here.
