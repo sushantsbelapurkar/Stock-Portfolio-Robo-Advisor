@@ -12,29 +12,29 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 
 
 #### Steps:
--	Calculating the intrinsic value of each stock - This code is not shared here.
+-	Calculate the intrinsic value of each stock - This code is not shared here.
 - Automatically load all the data to dataset periodically & created complex SQL quries to select the data required for Python/ML models -   This code is not shared here.
 -	Based on value investing and growth investing strategy, automatically select the undervalued stocks based on intrinsic value.
--	Using optimization, Modern Portfolio Theory, and Sharpe ratio allocate weight to the portfolio stocks.
--	Rebalancing the portfolio once a three year.
+-	Use of optimization, Modern Portfolio Theory, and Sharpe ratio allocate weight to the portfolio stocks.
+-	Automatic rebalancing of the portfolio once a three year.
 -	Portfolio risk customization and watchlist options available to consumers through optimization.
--	Using Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. 
+-	Use of Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. 
 
 ## Machine Learning in detail:
 - To decide which financial factors/features impacting more in stock movement.
-- Combined 10 years data all features of Balance sheet, income statement and cash flow statement with recession probability, S&P annual   return & annual treasury rate - total 75 features.
-- Calculated annual return of each stock and added as a new feature.
-- Converted few variables/features to categorical.
+- Combine 10 years data all features of Balance sheet, income statement and cash flow statement with recession probability, S&P annual     return & annual treasury rate - total 75 features.
+- Calculate annual return of each stock and added as a new feature.
+- Convert few variables/features to categorical.
 
 #### Target variable:
 - Whether stock will perform better than S&P500 next year (1: Yes, 0: No)
 
 #### working of ML
-- Used different classification models over the features to calculate accuracy.
+- Use different classification models over the features to calculate accuracy.
 - Confirm accuracy with cross-validation.
-- Predicated stock performance with the model having highest accuracy.
-- Used cross-validated deep neural netwok to check for better performance.
-- Performed PCA to reduce overfitting.
+- Prediction of stock performance with the model having highest accuracy.
+- Use of cross-validated deep neural netwok to check for better performance.
+- Perform PCA to reduce overfitting.
 - Finalised 21 features for prediction using PCA and Random forest feature selection method.
 - Re-run the model on new 21 features.
 
