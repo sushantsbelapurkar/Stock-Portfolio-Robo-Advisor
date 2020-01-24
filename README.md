@@ -39,6 +39,6 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 - Finalised 21 features for prediction using PCA and Random forest feature selection method.
 - Re-run the model on new 21 features.
 
-#### Result
+## Result
 - For customised Value and Growth portfolio model, performance is better than S&P500 for the period of 2015-2018
 - For ML/AI driven stock selection - Accuracy achieved ~ 75%
