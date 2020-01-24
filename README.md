@@ -40,5 +40,5 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 - Re-run the model on new 21 features.
 
 #### Result
-- For Value and Growth portfolio, performance is better than S&P500 for the period of 2015-2018
+- For customised Value and Growth portfolio model, performance is better than S&P500 for the period of 2015-2018
 - For ML/AI driven stock selection - Accuracy achieved ~ 75%
