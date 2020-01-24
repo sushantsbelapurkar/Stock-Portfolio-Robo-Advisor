@@ -21,7 +21,7 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 -	Use of Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. 
 
 ## Machine Learning in detail:
-- To decide which financial factors/features impacting more in stock movement.
+- To decide which financial factors/features impacting more in annualised stock performance.
 - Combine 10 years data all features of Balance sheet, income statement and cash flow statement with recession probability, S&P annual     return & annual treasury rate - total 75 features.
 - Calculate annual return of each stock and added as a new feature.
 - Convert few variables/features to categorical.
