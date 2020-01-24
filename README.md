@@ -11,7 +11,7 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 [Dataset used] (https://github.com/antoinevulcain/Financial-Modeling-Prep-API): Balance sheet, Cashflow statement, income statement, and historical returns of 4000 listed stocks comprise of more than one million rows.
 
 
-Steps:
+#### Steps:
 -	Calculating the intrinsic value of each stock - This code is not shared here.
 - Automatically load all the data to dataset periodically & created complex SQL quries to select the data required for Python/ML models -   This code is not shared here.
 -	Based on value investing and growth investing strategy, automatically select the undervalued stocks based on intrinsic value.
