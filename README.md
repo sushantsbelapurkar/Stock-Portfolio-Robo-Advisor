@@ -8,7 +8,7 @@ Technology and tools used: Python, MySQL, Machine Learning - Classification algo
 
 Concepts used: Financial Analytics-Value investment and growth investment, Sharpe Ratio,Modern Portfolio Theory(MPT), Optimization - To decide the weights of the stocks according to MPT.
 
-[Dataset used] (https://github.com/antoinevulcain/Financial-Modeling-Prep-API): Balance sheet, Cashflow statement, income statement, and historical returns of 4000 listed stocks comprise of more than one million rows.
+[Dataset used](https://github.com/antoinevulcain/Financial-Modeling-Prep-API): Balance sheet, Cashflow statement, income statement, and historical returns of 4000 listed stocks comprise of more than one million rows.
 
 
 #### Steps:
