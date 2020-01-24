@@ -13,7 +13,8 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 
 #### Steps:
 -	Calculate the intrinsic value of each stock - This code is not shared here.
-- Automatically load all the data to dataset periodically & created complex SQL quries to select the data required for Python/ML models -   This code is not shared here.
+- Automatically load all the data to dataset periodically - This code is not shared here.
+- created complex SQL quries to select the data required for Python/ML models.
 -	Based on value investing and growth investing strategy, automatically select the undervalued stocks based on intrinsic value.
 -	Use of optimization, Modern Portfolio Theory, and Sharpe ratio allocate weight to the portfolio stocks.
 -	Automatic rebalancing of the portfolio once a three year.
