@@ -33,7 +33,7 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 #### working of ML
 - Use different classification models over the features to calculate accuracy.
 - Confirm accuracy with cross-validation.
-- Prediction of stock performance with the model having highest accuracy.
+- Prediction of stocks performance with the model having highest accuracy.
 - Use of cross-validated deep neural netwok to check for better performance.
 - Perform PCA to reduce overfitting.
 - Finalised 21 features for prediction using PCA and Random forest feature selection method.
@@ -41,4 +41,4 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 
 ## Result
 - For customised Value and Growth portfolio model, performance is better than S&P500 for the period of 2015-2018.
-- For ML/AI driven stock selection - Accuracy achieved ~ 75%.
+- For ML/AI driven stocks selection - Accuracy achieved ~ 75%.
