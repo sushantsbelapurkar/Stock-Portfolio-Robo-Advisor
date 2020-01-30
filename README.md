@@ -42,3 +42,4 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 ## Result
 - For customised Value and Growth portfolio model, performance is better than S&P500 for the period of 2015-2018.
 - For ML/AI driven stocks selection - Accuracy achieved ~ 75%.
+- ![](images/efv.png)
