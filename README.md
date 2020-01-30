@@ -31,9 +31,9 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 - Whether stock will perform better than S&P500 next year (1: Yes, 0: No)
 
 #### working of ML
-- Use different classification models over the features to calculate accuracy.
+- Use different classification models over the features to calculate accuracy. Total 9 algorithm used.
 - Confirm accuracy with cross-validation.
-- Prediction of stocks performance with the model having highest accuracy.
+- Prediction of stocks performance with the model having highest accuracy.Random Forest was best performer.
 - Use of cross-validated deep neural netwok to check for better performance.
 - Perform PCA to reduce overfitting.
 - Finalised 21 features for prediction using PCA and Random forest feature selection method.
