@@ -48,7 +48,7 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
  ![](images/Efficient_Frontier_Growth_Portfolio.png)
  ![](images/Growth_Portfolio_vs_S&p500.png)
  
- - DNN Performance with All 70 features 
+ - DNN Performance with All 70+ features 
  ![](images/DNN_All_features.png)
  
  - Feature importance with Random Forest
