@@ -1,6 +1,4 @@
 # Stock-Portfolio-Robo-Advisor
-White paper also located at:
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517001
 
 Stock Portfolio Robo advisor is the automatic stock portfolio construction and rebalancing software created. Using the listed company's financial statements, we built a customized model based on value investment and growth investment strategy to select stocks for Value and Growth portfolio. Also, we constructed a Machine Learning based model to identify the stocks which may perform better than the S&P 500 for the upcoming year.
 
