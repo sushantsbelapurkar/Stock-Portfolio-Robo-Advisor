@@ -6,16 +6,16 @@ Technology and tools used: Python, MySQL, Machine Learning - Classification algo
 
 Concepts used: Financial Analytics-Value investment and growth investment, Sharpe Ratio,Modern Portfolio Theory(MPT), Optimization - To decide the weights of the stocks according to MPT.
 
-[Dataset used](https://github.com/antoinevulcain/Financial-Modeling-Prep-API): Balance sheet, Cashflow statement, income statement, and historical returns of 4000 listed stocks comprise of more than one million rows.
+[Dataset used](https://github.com/antoinevulcain/Financial-Modeling-Prep-API): Balance sheet, Cashflow statement, income statement, and historical returns of 5000+ listed stocks accross 4 exchanges comprise of more than two million rows.
 
 
 #### Steps:
 -	Calculate the intrinsic value of each stock - This code is not shared here.
-- Automatically load all the data to dataset periodically - This code is not shared here.
+- Automatically load all the data to dataset periodically
 - created complex SQL quries to select the data required for Python/ML models.
 -	Based on value investing and growth investing strategy, automatically select the undervalued stocks based on intrinsic value.
--	Use of optimization, Modern Portfolio Theory, and Sharpe ratio allocate weight to the portfolio stocks.
--	Automatic rebalancing of the portfolio once a three year.
+-	Use of optimization, Modern Portfolio Theory, and Sharpe ratio allocated weight to the portfolio stocks.
+-	Automatic rebalancing of the portfolio once a year.
 -	Portfolio risk customization and watchlist options available to consumers through optimization.
 -	Use of Machine learning classification, PCA, DNN algorithms and passing entire financial statements data, predict the list of stocks that may perform better than S&P500. 
 
