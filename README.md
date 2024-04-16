@@ -10,7 +10,7 @@ Concepts used: Financial Analytics-Value investment and growth investment, Sharp
 
 
 #### Steps:
--	Calculate the intrinsic value of each stock - This code is not shared here.
+-	Calculate the intrinsic value of each stock - sensitive/hidden code.
 - Automatically load all the data to dataset periodically
 - created complex SQL quries to select the data required for Python/ML models.
 -	Based on value investing and growth investing strategy, automatically select the undervalued stocks based on intrinsic value.
