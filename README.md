@@ -2,6 +2,8 @@
 
 Stock Portfolio Robo advisor is the automatic stock portfolio construction and rebalancing software created. Using the listed company's financial statements, we built a customized model based on value investment and growth investment strategy to select stocks for Value and Growth portfolio. Also, we constructed a Machine Learning based model to identify the stocks which may perform better than the S&P 500 for the upcoming year.
 
+Details od the projects can be found in the [project white paper](https://github.com/sushantsbelapurkar/Stock-Portfolio-Robo-Advisor/blob/master/1_Portfolio_Robo_Advisor_White_paper.pdf).
+
 Technology and tools used: Python, MySQL, Machine Learning - Classification algorithms, Feature Engineering, cross validation, DNN, Keras. 
 
 Concepts used: Financial Analytics-Value investment and growth investment, Sharpe Ratio,Modern Portfolio Theory(MPT), Optimization - To decide the weights of the stocks according to MPT.
